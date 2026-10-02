@@ -4,7 +4,7 @@ CSE graduate from the University of Asia Pacific (CGPA 3.69/4.00) with a researc
 I work at the intersection of **bioinformatics, machine learning and data analysis**, and I enjoy
 building backend systems and designing clean visuals along the way.
 
-🟢 **Open to work** · 📍 Dhaka, Bangladesh
+
 
 ## 🔬 What I'm into
 - **Research:** Bioinformatics, Machine Learning, AI
