@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Anika Nawer Nabila" width="100%"/>
+<img src="https://raw.githubusercontent.com/Nawer-Nabila/Nawer-Nabila/main/assets/banner.svg" alt="Anika Nawer Nabila" width="100%"/>
 
 <a href="https://github.com/Nawer-Nabila"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF6B6B&center=true&vCenter=true&width=640&lines=Decoding+genes+with+Python+%F0%9F%A7%AC;Teaching+machines+to+read+protein+sequences+%F0%9F%A4%96;Building+APIs+with+Django+%26+Node.js+%E2%9A%99%EF%B8%8F;Turning+research+into+visual+stories+%F0%9F%8E%A8" alt="Typing animation"/></a>
 
@@ -17,8 +17,20 @@
 
 ## 🧬 About me
 
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://github.com/Nawer-Nabila.png?size=300" width="180" alt="Anika"/>
+<br/><sub><b>Anika Nawer Nabila</b></sub>
+</td>
+<td>
+
 CSE graduate from **University of Asia Pacific** (CGPA **3.69 / 4.00**) with a research-driven mindset.
 I like problems where **biology meets data**, and I enjoy shipping backend systems and clean visuals along the way.
+
+</td>
+</tr>
+</table>
 
 ```python
 class Anika:
@@ -75,6 +87,11 @@ class Anika:
 ---
 
 ## 🏆 Highlights
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Nawer-Nabila/Nawer-Nabila/main/assets/awards.svg" alt="Awards and achievements" width="100%"/>
+</div>
+
 
 - 🥇 Vice-Chancellor's Award (1×) and Dean's Award (3×), University of Asia Pacific
 - 📊 HerWill Datathon 2026 participant
